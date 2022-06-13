@@ -10,8 +10,8 @@ How to reach me:
 ---
 ### Stats
 <p>
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mmostafa74&count_private=true&show_icons=true" alt="alsadek's github stats">
-   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmostafa74&hide_border=true" alt="alsadek's contributions"/>
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alsadek&count_private=true&show_icons=true" alt="alsadek's github stats">
+   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alsadek&hide_border=true" alt="alsadek's contributions"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsadek&layout=compact" alt="alsadek's top languages">
