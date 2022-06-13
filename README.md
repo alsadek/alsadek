@@ -8,7 +8,7 @@ How to reach me:
  - a.a.alsadek@gmail.com
  - <a href="https://www.linkedin.com/in/ahmedalsadek/">linkedin.com/in/ahmedalsadek/</a>
 ---
-### Stats
+<h2>⚡GitHub Stats</h2>
 <p>
    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alsadek&count_private=true&show_icons=true" alt="alsadek's github stats">
    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alsadek&hide_border=true" alt="alsadek's contributions"/>
