@@ -2,7 +2,7 @@
 
 I'm Sadek,
  - Software Engineer focusing on Backend engineering and passionate about the software industry and loves coding in PHP, NodeJs.
- - interested in fintech, e-commerce, and SaaS apps.
+ - Interested in fintech, e-commerce, and SaaS apps.
  
 How to reach me:
  - a.a.alsadek@gmail.com
