@@ -6,7 +6,7 @@ I'm Sadek,
  
 How to reach me:
  - a.a.alsadek@gmail.com
- - <a href="https://www.linkedin.com/in/ahmedalsadek/">linkedin.com/in/ahmedalsadek/</a>
+ - <a href="https://www.linkedin.com/in/ahmedalsadek/">linkedin.com/in/ahmedalsadek</a>
 ---
 <h2>⚡GitHub Stats</h2>
 <p>
